@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @lucyvuolo
 - 👀  I’m interested in creating unique and user friendly websites for personal and buisness needs 
-- 🌱  I’m currently learning the basics using HTML through @TheOdinProject 
+- 🌱  I’m currently continuing my education and expanding my knowledge of web frameworks 
 - 📫  You can reach me at lucy@lucyvuolo.com 
 
 <!---
